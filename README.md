@@ -13,5 +13,5 @@ docker run --rm -p 8080:8080 cpprest
 see output of request in the browser by going to `localhost:8080`
 
 
-## Dependencies (included already)
+## Dependencies
 * docker
