@@ -2,6 +2,9 @@
 #include <thread>
 #include <chrono>
 #include "cpprest/http_listener.h"
+//#include "/usr/include/sqlite3.h"
+#include <SQLiteCpp/SQLiteCpp.h>
+
 
 using namespace std;
 using namespace web;
